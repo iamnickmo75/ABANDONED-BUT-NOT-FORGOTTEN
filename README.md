@@ -67,7 +67,6 @@ The website uses additional local assets alongside its main HTML file.
 |---|---|
 | `index.html` | Main website file |
 | `solar_system_animation.glb` | 3D solar system model |
-| `images/` | Images used throughout the website, if included |
 | Other local assets | Supporting media and resources required by the website |
 
 **Important:** Keep the HTML file and its required local assets in their original relative folder structure. Moving or renaming these files may cause some images or 3D models to stop loading.
