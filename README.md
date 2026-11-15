@@ -67,9 +67,8 @@ The website uses additional local assets alongside its main HTML file.
 
 | File / Folder | Purpose |
 |---|---|
-| `videos added.html` | Main website file |
+| `index.html` | Main website file |
 | `solar_system_animation.glb` | 3D solar system model |
-| `images/` | Images used throughout the website, if included |
 | Other local assets | Supporting media and resources required by the website |
 
 **Important:** Keep the HTML file and its required local assets in their original relative folder structure. Moving or renaming these files may cause some images or 3D models to stop loading.
@@ -78,7 +77,7 @@ The website uses additional local assets alongside its main HTML file.
 
 1. Download or copy the complete project folder to your computer.
 2. Make sure the main HTML file and all required assets are present.
-3. Open `videos added.html` using a modern web browser such as Google Chrome, Microsoft Edge, or Mozilla Firefox.
+3. Open `index.html` using a modern web browser such as Google Chrome, Microsoft Edge, or Mozilla Firefox.
 4. Navigate through the website using the navigation menu.
 5. Visit the Project section to explore the Moon, Mars, and Deep Space research.
 
