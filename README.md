@@ -7,7 +7,7 @@
 
 Every space mission leaves behind a story. Some equipment was deliberately left behind after completing its mission, while other machines eventually stopped functioning or lost communication with Earth. Although these objects may no longer be active, their contributions to science and space exploration remain important.
 
-This project presents their stories through research, images, videos, interactive animations, and a timeline of significant space exploration events.
+This project presents their stories through research, images, interactive animations, and a timeline of significant space exploration events.
 
 ## Project Objectives
 
@@ -48,7 +48,6 @@ Provides information about the people behind the project and its purpose.
 - **Interactive space journey:** A visual rocket journey connecting Earth, the Moon, and Mars.
 - **Mission exploration:** Visitors can explore the Moon and Mars research sections after reaching the corresponding destinations in the interactive journey.
 - **3D visualization:** A 3D solar system model provides a visual introduction to space exploration.
-- **Documentary videos:** Embedded videos provide additional context and storytelling.
 - **Research timeline:** The Deep Space section presents important events in the Voyager missions chronologically.
 - **Navigation:** Visitors can move between the Home, Project, and About Us sections.
 
@@ -59,7 +58,6 @@ Provides information about the people behind the project and its purpose.
 - **JavaScript** – Interactive navigation, mission controls, and website behaviour.
 - **SVG** – Vector-based space animation and visual elements.
 - **Google Model Viewer** – Displaying the 3D solar system model.
-- **YouTube Embed** – Displaying documentary videos directly within the website.
 
 ## Project Files
 
@@ -69,6 +67,7 @@ The website uses additional local assets alongside its main HTML file.
 |---|---|
 | `index.html` | Main website file |
 | `solar_system_animation.glb` | 3D solar system model |
+| `images/` | Images used throughout the website, if included |
 | Other local assets | Supporting media and resources required by the website |
 
 **Important:** Keep the HTML file and its required local assets in their original relative folder structure. Moving or renaming these files may cause some images or 3D models to stop loading.
@@ -81,7 +80,7 @@ The website uses additional local assets alongside its main HTML file.
 4. Navigate through the website using the navigation menu.
 5. Visit the Project section to explore the Moon, Mars, and Deep Space research.
 
-An internet connection is recommended because some resources, including embedded YouTube videos, the 3D model viewer library, and externally hosted images, may require online access.
+An internet connection is recommended because some resources, including the 3D model viewer library, and externally hosted images, require FULL ON online access.
 
 ## Educational Value
 
@@ -98,7 +97,7 @@ Research and visual materials should be credited to their original sources. NASA
 - NASA Jet Propulsion Laboratory: https://www.jpl.nasa.gov/
 - NASA Voyager Mission: https://science.nasa.gov/mission/voyager/
 
-Additional video, image, and educational resources are presented within the website.
+Additional image and educational resources are presented within the website.
 
 ---
 
